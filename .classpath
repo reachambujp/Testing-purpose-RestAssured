@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Ambuj_Study_QA/lib/Rest_Libraries(Adithya)/drive-download-20220701T003315Z-001/xml-path-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
